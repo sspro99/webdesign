@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <nav>
-        <h>Home</h>
-        <h>About us <h>
+        <h>Home</h> <br> 
+        <h>About us <h> <br> 
         <h>contact us</h>
     </nav>
 </head>
